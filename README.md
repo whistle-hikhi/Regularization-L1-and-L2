@@ -1,1 +1,1 @@
-# Regularization-L1-and-L2
+# Regularization L1 and L2
